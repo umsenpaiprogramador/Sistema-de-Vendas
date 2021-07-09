@@ -1,2 +1,2 @@
 # Sistema-de-Vendas
-Sistema de Vendas com Java Desktop
+Sistema de Vendas com Java Desktop e Mysql
